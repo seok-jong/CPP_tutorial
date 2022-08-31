@@ -1,8 +1,8 @@
 #include <iostream>
-// iostreamÀº c++¿¡¼­ ÀÔÃâ·Â °ü·Ã Çì´õÆÄÀÏ
+// iostreamï¿½ï¿½ c++ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
-int main()
-{
-	std::cout << "Hello" << std::endl;
-	return 0;
-}
+// int main()
+// {
+// 	std::cout << "Hello" << std::endl;
+// 	return 0;
+// }
